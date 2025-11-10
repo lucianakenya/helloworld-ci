@@ -41,5 +41,5 @@ hello-ci/
     └── workflows/
         └── python-app.yml
 📝 Author
-Created by [Your Name]
+Created by Lucy Nyambura
 GitHub: https://github.com/lucianakenya
